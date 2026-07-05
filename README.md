@@ -1,4 +1,6 @@
 # V.O.I.C.E. AI: Municipal Citizen Grievance Analytics Dashboard 🏛️🗣️
+## 🌐 Live Demo URL
+👉 [Click here to view the Live Prototype App](https://v-o-i-c-e-ai-municipal-citizen-grievance-analytic-16396859728.asia-southeast1.run.app)
 
 🚀 **Voice-Optimized Ingestion & Cognitive Extraction (V.O.I.C.E.) Platform** is a highly modern, production-grade analytics suite engineered specifically for the **Madurai Municipal Corporation**. It acts as a cognitive gateway, transforming unstructured, multilingual, and spoken regional dialect citizen complaints (mixes of Tamil, English, and regional colloquialisms) into structured, prioritized, and sanitized records optimized for GIS dispatch and BigQuery pipeline analytics.
 
