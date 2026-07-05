@@ -1,0 +1,6 @@
+{
+  "name": "V.O.I.C.E. AI: Municipal Citizen Grievance Analytics Dashboard",
+  "description": "Voice-Optimized Ingestion & Cognitive Extraction analytics platform for processing unstructured regional citizen complaints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

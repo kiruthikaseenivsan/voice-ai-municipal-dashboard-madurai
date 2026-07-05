@@ -1,0 +1,322 @@
+[
+  {
+    "Complaint_ID": "3207b754-6bf5-429c-9d01-7b26f9560837",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Mattuthavani",
+    "Translated_Text_EN": "Drainage completely blocked near Mattuthavani main road signal and dirty water is flowing fully on the street.",
+    "Raw_Complaint_Text": "Drainage completely blocked near Mattuthavani main road signal and dirty water is flowing fully on the street.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "9d052fa4-1228-4dd6-a46c-16dd88d55d2b",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "K.Pudur",
+    "Translated_Text_EN": "Street lights in our street have not been working continuously for 4 days and it is scary to ride a cycle at night.",
+    "Raw_Complaint_Text": "Street lights in our street have not been working continuously for 4 days and it is scary to ride a cycle at night.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "42ecf979-13e8-45c9-a0b1-ee938374a5e1",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Goripalayam",
+    "Translated_Text_EN": "There are big potholes blocks in the heavy traffic corridors of Goripalayam junction and vehicles are crashing due to rainwater overflow.",
+    "Raw_Complaint_Text": "There are big potholes blocks in the heavy traffic corridors of Goripalayam junction and vehicles are crashing due to rainwater overflow.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "612d0e3a-8aeb-43a3-8758-9adc677e11a8",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Anna Nagar",
+    "Translated_Text_EN": "Garbage heaps are piled up like a dump yard on the bypass path close to the Anna Nagar government school.",
+    "Raw_Complaint_Text": "Garbage heaps are piled up like a dump yard on the bypass path close to the Anna Nagar government school.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "f7cde64a-2633-48cb-83cc-c6a1138e2754",
+    "Target_Area_Zone": "Zone 3 (Central)",
+    "Location": "Periyar",
+    "Translated_Text_EN": "Plastic wastes are stacked and piled up fully in front of the Periyar bus stand complex without being cleaned.",
+    "Raw_Complaint_Text": "Plastic wastes are stacked and piled up fully in front of the Periyar bus stand complex without being cleaned.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "c0861d41-6b1c-4f8c-85ce-e80d60458642",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Annanagar",
+    "Translated_Text_EN": "Sparks are visible in the line of the Anna Nagar main junction transformation station which poses heavy risk elements.",
+    "Raw_Complaint_Text": "Sparks are visible in the line of the Anna Nagar main junction transformation station which poses heavy risk elements.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "83b30194-6c8d-4cb2-8810-f737a753d86a",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Teppakulam",
+    "Translated_Text_EN": "There is a structural leak in the Teppakulam Vandiyur canal control sluice gate and water is continuously wasting and flooding the cross roads.",
+    "Raw_Complaint_Text": "There is a structural leak in the Teppakulam Vandiyur canal control sluice gate and water is continuously wasting and flooding the cross roads.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "c7c3142c-16fa-428d-9dc4-9ffca835df07",
+    "Target_Area_Zone": "Zone 3 (Central)",
+    "Location": "Simmakkal",
+    "Translated_Text_EN": "Pavement encroachments and platform pits are big in the internal corridors of Simmakkal market collapsing morning load vehicles traffic.",
+    "Raw_Complaint_Text": "Pavement encroachments and platform pits are big in the internal corridors of Simmakkal market collapsing morning load vehicles traffic.",
+    "Core_Category": "Roads",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "a1d0e91b-ef46-45ea-9db5-5982649be153",
+    "Target_Area_Zone": "Zone 5 (West)",
+    "Location": "Aarapalayam",
+    "Translated_Text_EN": "There are no clear cleaning systems at the backside of the Aarapalayam bus terminal causing food waste stinking smell and heavy public health issues.",
+    "Raw_Complaint_Text": "There are no clear cleaning systems at the backside of the Aarapalayam bus terminal causing food waste stinking smell and heavy public health issues.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "c5000d78-18c0-407b-80fb-26f04005b243",
+    "Target_Area_Zone": "Zone 5 (West)",
+    "Location": "Kalavasal",
+    "Translated_Text_EN": "Overhead cables are down near the ceiling in Kalavasal bypass lane and the low level hanging posture of the high risk transformers line layout is unsafe.",
+    "Raw_Complaint_Text": "Overhead cables are down near the ceiling in Kalavasal bypass lane and the low level hanging posture of the high risk transformers line layout is unsafe.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "4f77ddb0-437d-4c5a-a115-2f79701f2bf3",
+    "Target_Area_Zone": "Zone 5 (West)",
+    "Location": "Mahaboobpalayam",
+    "Translated_Text_EN": "Sewage line is mixed in the residential pipelines of Mahaboobpalayam main street and dirty muddy water flows into incoming taps posing a severe health danger.",
+    "Raw_Complaint_Text": "Sewage line is mixed in the residential pipelines of Mahaboobpalayam main street and dirty muddy water flows into incoming taps posing a severe health danger.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "2bc042c0-a58b-4e60-8b38-18ba1938f842",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Sellur",
+    "Translated_Text_EN": "The narrow path potholes muddy clay and rainwater logging at the Sellur railway subway underpass gate have completely blocked and stalled vehicle movement.",
+    "Raw_Complaint_Text": "The narrow path potholes muddy clay and rainwater logging at the Sellur railway subway underpass gate have completely blocked and stalled vehicle movement.",
+    "Core_Category": "Roads",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "4ab583a2-5032-4a18-81b4-922da1b2987b",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Tallakulam",
+    "Translated_Text_EN": "Trash bins overflow and clearance is delayed at the Tallakulam post office circle corner with animal heaps scattering wastes on main corridors.",
+    "Raw_Complaint_Text": "Trash bins overflow and clearance is delayed at the Tallakulam post office circle corner with animal heaps scattering wastes on main corridors.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "844686a4-057c-4a70-8d6c-8260f4beb142",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "Thirunagar",
+    "Translated_Text_EN": "High voltage fluctuation is continuously happening in the residential sector of Thirunagar 3rd stop posing home appliances grid burning out risks.",
+    "Raw_Complaint_Text": "High voltage fluctuation is continuously happening in the residential sector of Thirunagar 3rd stop posing home appliances grid burning out risks.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "8a2b9877-7e4d-408e-aed8-fb4167506835",
+    "Target_Area_Zone": "Zone 3 (Central)",
+    "Location": "Nelpettai",
+    "Translated_Text_EN": "Butchery dumping units on the Nelpettai market side are throwing waste materials on center dividers spreading toxic vectors and a bad odor.",
+    "Raw_Complaint_Text": "Butchery dumping units on the Nelpettai market side are throwing waste materials on center dividers spreading toxic vectors and a bad odor.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "52b4bbfc-ce27-408f-b452-ae3a265e7308",
+    "Target_Area_Zone": "Zone 3 (Central)",
+    "Location": "Therkuvasal",
+    "Translated_Text_EN": "The cross road path at Therkuvasal junction is broken with deep craters causing broken vehicle axle balance and multiple minor accidents daily.",
+    "Raw_Complaint_Text": "The cross road path at Therkuvasal junction is broken with deep craters causing broken vehicle axle balance and multiple minor accidents daily.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "e084e112-4354-4876-98d2-c4d675724b79",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "Palanganatham",
+    "Translated_Text_EN": "Drinking water supply pipeline pressure is zero at the Palanganatham housing board and water delivery has completely stopped for 5 days.",
+    "Raw_Complaint_Text": "Drinking water supply pipeline pressure is zero at the Palanganatham housing board and water delivery has completely stopped for 5 days.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "de050974-1b39-4e13-a195-da8706dfb8a6",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "Chinthamani",
+    "Translated_Text_EN": "Illegal industrial chemical sludge dumping is happening in open fields at the Chinthamani ring road entry point bypass area causing a bad smell.",
+    "Raw_Complaint_Text": "Illegal industrial chemical sludge dumping is happening in open fields at the Chinthamani ring road entry point bypass area causing a bad smell.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "dd8bdd5c-829f-4484-a9bf-668a28538cf1",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "Villapuram",
+    "Translated_Text_EN": "Open distribution box doors are broken and fuse wires are uncovered in the Villapuram colony area which is a fatal hazard due to children playground proximity.",
+    "Raw_Complaint_Text": "Open distribution box doors are broken and fuse wires are uncovered in the Villapuram colony area which is a fatal hazard due to children playground proximity.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "49c8c058-dc0d-4b08-a2bd-f530685bbb5c",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "Avaniapuram",
+    "Translated_Text_EN": "There is a structural design mismatch in the speed breakers of the Avaniapuram highway approach layout causing vehicle bounce crashes without signboards.",
+    "Raw_Complaint_Text": "There is a structural design mismatch in the speed breakers of the Avaniapuram highway approach layout causing vehicle bounce crashes without signboards.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "8c2b7c3b-685f-44fe-b564-4a1b79400dc4",
+    "Target_Area_Zone": "Zone 5 (West)",
+    "Location": "Sholavandan",
+    "Translated_Text_EN": "Irrigation channels at the Sholavandan railway line border are blocked with silt formation disrupting tank water distribution and causing agricultural blocks.",
+    "Raw_Complaint_Text": "Irrigation channels at the Sholavandan railway line border are blocked with silt formation disrupting tank water distribution and causing agricultural blocks.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "df99f09b-0fd5-406e-a579-10e29137f65f",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Samayanallur",
+    "Translated_Text_EN": "Line feeders are overloaded at the Samayanallur power sub station causing a manual trip frequently every 2 hours leading to an unscheduled blackout.",
+    "Raw_Complaint_Text": "Line feeders are overloaded at the Samayanallur power sub station causing a manual trip frequently every 2 hours leading to an unscheduled blackout.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "5a0b1cc5-e5b6-4fd0-899f-79ebe3f1aa8a",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Othakadai",
+    "Translated_Text_EN": "Gravel erosion on the service roads of Othakadai links bypass junction is causing heavy dust pollution and visual blind spots during evening.",
+    "Raw_Complaint_Text": "Gravel erosion on the service roads of Othakadai links bypass junction is causing heavy dust pollution and visual blind spots during evening.",
+    "Core_Category": "Roads",
+    "Severity_Score": 3,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "0da597e6-6439-4205-a90b-7865c7a6f34d",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "AlagarKovil",
+    "Translated_Text_EN": "Plastic bottle heap accumulations are found at the Alagar Kovil temple downhill parking areas showing a tourist waste management loop failure.",
+    "Raw_Complaint_Text": "Plastic bottle heap accumulations are found at the Alagar Kovil temple downhill parking areas showing a tourist waste management loop failure.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "bae4d16f-1fa8-4b52-981c-b8297f7f0236",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Karuppayurani",
+    "Translated_Text_EN": "There is an agricultural pipeline network leak in Karuppayurani causing open wells to overflow and a drinking bore wells water contamination danger.",
+    "Raw_Complaint_Text": "There is an agricultural pipeline network leak in Karuppayurani causing open wells to overflow and a drinking bore wells water contamination danger.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "ad23723a-2eb6-45c8-9090-1054d9035e61",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Yanamalai",
+    "Translated_Text_EN": "Construction material debris dumping at the Yanamalai archaeological site border zones is causing natural path blocks and heavy aesthetic damage.",
+    "Raw_Complaint_Text": "Construction material debris dumping at the Yanamalai archaeological site border zones is causing natural path blocks and heavy aesthetic damage.",
+    "Core_Category": "Sanitation",
+    "Severity_Score": 4,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "4e213661-d940-42cb-ad7b-d1eb1b6754e2",
+    "Target_Area_Zone": "Zone 1 (East)",
+    "Location": "Melur",
+    "Translated_Text_EN": "The single lane road at Melur main bazaar is completely broken with aggregate stones scattered posing a two wheelers skidding control risk.",
+    "Raw_Complaint_Text": "The single lane road at Melur main bazaar is completely broken with aggregate stones scattered posing a two wheelers skidding control risk.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "5967742b-c1c0-45f3-a0cb-74d122f428fc",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "SikkandarChavadi",
+    "Translated_Text_EN": "Tree branches are growing and directly intersecting live high tension lines on Sikkandar Chavadi main street causing circuit sparks during wind.",
+    "Raw_Complaint_Text": "Tree branches are growing and directly intersecting live high tension lines on Sikkandar Chavadi main street causing circuit sparks during wind.",
+    "Core_Category": "Electricity",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "17a843b2-9456-4f3b-9f98-19a3bb348ea6",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "NagalaPuram",
+    "Translated_Text_EN": "There is a bore pump failure in the ground water extraction systems of Nagalapuram layout with the motor coil burnt leading to dry supply lines.",
+    "Raw_Complaint_Text": "There is a bore pump failure in the ground water extraction systems of Nagalapuram layout with the motor coil burnt leading to dry supply lines.",
+    "Core_Category": "Water Supply",
+    "Severity_Score": 2,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "51cfe8bf-2546-4834-8095-d42760562966",
+    "Target_Area_Zone": "Zone 4 (South)",
+    "Location": "Pasumalai",
+    "Translated_Text_EN": "Retaining wall erosion on the curve side of Pasumalai hill climbing path is causing landslide rocks falling onto driving tracks creating hazardous blocks.",
+    "Raw_Complaint_Text": "Retaining wall erosion on the curve side of Pasumalai hill climbing path is causing landslide rocks falling onto driving tracks creating hazardous blocks.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "2ef15cdf-f42f-4bda-b39e-68f5a2c8340e",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Mattuthavani",
+    "Raw_Complaint_Text": "Macha, Mattuthavani bus stand complex entrance lane full-ah deep pothole pit damage iruku. Rendu bikes corner cross panrappa skid aagi crash aaiduchu pa. Dynamic emergency maintenance speed-ah team anupunga, road damage layout completely dangerous block status.",
+    "Translated_Text_EN": "Brother, there is deep pothole and pit damage all over the entrance lane of the Mattuthavani bus stand complex. Two bikes skidded and crashed when crossing the corner. Send the team quickly for dynamic emergency maintenance; the road damage layout is completely dangerous and causing a block status.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  },
+  {
+    "Complaint_ID": "ceb8f42a-694f-4588-af8b-21f9876739b9",
+    "Target_Area_Zone": "Zone 2 (North)",
+    "Location": "Mattuthavani",
+    "Raw_Complaint_Text": "Mattuthavani bus stand complex entrance lane layout completely broken dangerous pothole pit damage deep accidents risk high, send emergency road repair crew.",
+    "Translated_Text_EN": "The layout of the entrance lane at the Mattuthavani bus stand complex is completely broken with deep, dangerous pothole and pit damage, posing a high risk of accidents. Please send an emergency road repair crew.",
+    "Core_Category": "Roads",
+    "Severity_Score": 5,
+    "Anonymization_Status": true
+  }
+]
